@@ -1,0 +1,32 @@
+.container{
+  /* padding: 0; */
+  /* border: 1px solid; */
+  height: 100vh;
+  /* background-color: bisque; */
+}
+
+
+.header{
+  /* margin-top: 1  rem; */
+  padding: 1rem;
+  font-size: 2rem;
+  color: black;
+  text-align: center;
+  font-weight: 800;
+}
+
+.input-box{
+  margin-top: 1rem;
+}
+
+.input-box input{
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  width: 100% ;
+  font-size: 1rem;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
